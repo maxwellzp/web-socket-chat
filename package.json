@@ -1,0 +1,16 @@
+{
+  "name": "websocket_chat",
+  "version": "1.0.0",
+  "description": "Web socket chat example",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "ws": "^8.13.0"
+  }
+}
